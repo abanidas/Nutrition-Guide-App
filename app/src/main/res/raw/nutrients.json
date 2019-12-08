@@ -1,0 +1,145 @@
+[
+  {
+    "id": 4,
+    "name": "Vitamin A",
+    "description": "Vitamin A is a group of unsaturated nutritional organic compounds that includes retinol, retinal, retinoic acid, and several provitamin A carotenoids (most notably beta-carotene).",
+    "foods": [
+      {
+        "id": 65,
+        "name": "Sweet potato",
+        "scientificName": "Ipomoea batatas",
+        "description": "The sweet potato (Ipomoea batatas) is a dicotyledonous plant that belongs to the bindweed or morning glory family, Convolvulaceae. Its large, starchy, sweet-tasting, tuberous roots are a root vegetable.",
+        "quantityOfNutrients": {
+          "4": "≈355 mcg(μg) in 100 grams"
+        },
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Jjin-goguma.jpg",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Sweet_potato"
+      },
+      {
+        "id": 1,
+        "name": "Cod liver oil",
+        "scientificName": "",
+        "description": "Cod liver oil is a dietary supplement derived from liver of cod fish (Gadidae). As with most fish oils, it contains the omega-3 fatty acids, eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)",
+        "quantityOfNutrients": {
+          "4": "340 mcg(μg) per Tbsp"
+        },
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cod_Liver_Oil_Capsules.jpg/640px-Cod_Liver_Oil_Capsules.jpg",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Cod_liver_oil"
+      },
+      {
+        "id": 33,
+        "name": "Ghee",
+        "scientificName": "",
+        "description": "Ghee is a class of clarified butter that originated from the Indian subcontinent. It is commonly used in South Asian and Middle Eastern cuisines, traditional medicine, and religious rituals.",
+        "quantityOfNutrients": {
+          "4": "12% - 15% per Tbsp",
+          "65": "2.8 mg in 100 grams"
+        },
+        "imageUrl": "https://images.pexels.com/photos/1337824/pexels-photo-1337824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ghee"
+      }
+    ],
+    "alsoKnownAs": [
+      "3-Dehydroretinol",
+      "Antixerophthalmic Vitamin",
+      "Dehydroretinol"
+    ],
+    "symbol": "C20H30O",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vitamin_A"
+  },
+  {
+    "id": 65,
+    "name": "Vitamin E",
+    "description": "Vitamin E is a group of eight fat soluble chemicals that include four tocopherols and four tocotrienols. Vitamin E deficiency can cause nerve problems.",
+    "foods": [
+      {
+        "id": 33,
+        "name": "Ghee",
+        "scientificName": "",
+        "description": "Ghee is a class of clarified butter that originated from the Indian subcontinent. It is commonly used in South Asian and Middle Eastern cuisines, traditional medicine, and religious rituals.",
+        "quantityOfNutrients": {
+          "4": "12% - 15% per Tbsp",
+          "65": "2.8 mg in 100 grams"
+        },
+        "imageUrl": "https://images.pexels.com/photos/1337824/pexels-photo-1337824.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Ghee"
+      }
+    ],
+    "alsoKnownAs": [
+      "Tocopheryl Acetate",
+      "Tocopheryl Acid Succinate",
+      "Tocotrienol"
+    ],
+    "symbol": "C29H50O2",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vitamin_E"
+  },
+  {
+    "id": 2,
+    "name": "Vitamin C",
+    "description": "Vitamin C, also known as ascorbic acid and L-ascorbic acid, is a vitamin found in food and used as a dietary supplement. The disease scurvy is prevented and treated with vitamin C-containing foods or dietary supplements.",
+    "foods": [
+      {
+        "id": 2,
+        "name": "Acerola",
+        "scientificName": "Malpighia emarginata",
+        "description": "Acerola is native to South America, southern Mexico, Puerto Rico, Dominican Republic, Haiti, Brazil, and Central America, but is now also being grown as far north as Texas and in subtropical areas of Asia, such as India.",
+        "quantityOfNutrients": {
+          "2": "1,677.6 mg in 100 grams"
+        },
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Acerola_Malpighia_glabra.jpg/640px-Acerola_Malpighia_glabra.jpg",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Malpighia_emarginata"
+      },
+	  {
+        "id": 3,
+        "name": "Broccoli",
+        "scientificName": "Brassica oleracea var. italica",
+        "description": "Broccoli is an edible green plant in the cabbage family whose large flowering head is eaten as a vegetable.",
+        "quantityOfNutrients": {
+          "2": "89.2 mg in 100 grams"
+        },
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Broccoli.jpg/640px-Broccoli.jpg",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Broccoli"
+      }
+    ],
+    "alsoKnownAs": [
+      "Acide Iso-Ascorbique",
+      "Antiscorbutic Vitamin",
+      "Ascorbic Acid"
+    ],
+    "symbol": "C6H8O6",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vitamin_C"
+  },
+  {
+    "id": 3,
+    "name": "Protein",
+    "description": "Proteins are essential nutrients for the human body. They are one of the building blocks of body tissue and can also serve as a fuel source. As a fuel, proteins provide as much energy density as carbohydrates.",
+    "foods": [
+      {
+        "id": 4,
+        "name": "Legume",
+        "scientificName": "Fabaceae",
+        "description": "A legume is a plant in the family Fabaceae (or Leguminosae), or the fruit or seed of such a plant. Legumes are grown agriculturally, primarily for human consumption, for livestock forage and silage, and as soil-enhancing green manure.",
+        "quantityOfNutrients": {
+          "3": "5 g in 100 grams"
+        },
+        "imageUrl": "https://pixnio.com/free-images/2018/11/18/2018-11-18-20-00-22-1200x800.jpg",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Legume"
+      },
+	  {
+        "id": 5,
+        "name": "Wheat",
+        "scientificName": "Triticum",
+        "description": "Wheat is a grass widely cultivated for its seed, a cereal grain which is a worldwide staple food. The many species of wheat together make up the genus Triticum; the most widely grown is common wheat.",
+        "quantityOfNutrients": {
+          "3": "13.2 g in 100 grams"
+        },
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/A_field_of_wheat.JPG",
+        "wikiUrl": "https://en.wikipedia.org/wiki/Wheat"
+      }
+    ],
+    "alsoKnownAs": [
+    ],
+    "symbol": "",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Protein_(nutrient)"
+  }
+]

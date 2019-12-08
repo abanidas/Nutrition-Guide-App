@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="@dimen/margin_default"
+    app:cardCornerRadius="@dimen/margin_default"
+    app:cardElevation="@dimen/margin_small"
+    android:id="@+id/nutrient_card">
+
+    <LinearLayout
+        android:id="@+id/ll_nutrient_bg"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/nutrient_card_height"
+        android:orientation="vertical"
+        android:focusable="true"
+        android:gravity="center"
+        android:background="@drawable/ic_gradient_1">
+
+        <ImageView
+            android:id="@+id/image_nutrient"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_carrot"
+            android:contentDescription="@string/icon_food_source"
+            android:layout_gravity="center_horizontal"/>
+
+        <TextView
+            android:id="@+id/tv_nutrient_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="@string/nutrient_label"
+            android:textStyle="italic"
+            android:layout_gravity="center_horizontal"/>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

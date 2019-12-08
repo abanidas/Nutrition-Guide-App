@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ic_theme_background_blue"
+    android:padding="@dimen/widget_margin"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:elevation="@dimen/elevation_default">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/your_foods_title"
+            android:textSize="@dimen/text_size_medium"
+            android:gravity="center_horizontal"
+            android:layout_margin="@dimen/margin_default"
+            android:textColor="@android:color/white"/>
+    </FrameLayout>
+
+    <ListView
+        android:id="@+id/list_view_widget"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_default"
+        android:overScrollMode="never"
+        android:scrollbars="none"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="@dimen/margin_default"/>
+
+</LinearLayout>

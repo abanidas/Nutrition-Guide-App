@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Nutrition Guide</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="your_foods_title">Your Foods</string>
+    <string name="title_nutritional_information">Nutritional Information</string>
+    <string name="nutrient_label">Nutrient</string>
+    <string name="foods_label">Foods</string>
+    <string name="description_label">Description</string>
+    <string name="scientific_name_label">Scientific name</string>
+    <string name="nutrient_quantities_label">Nutrient Quantities</string>
+    <string name="know_more_label">Know more</string>
+    <string name="nutrition_guide_logo">Nutrition Guide Logo</string>
+    <string name="food_image_description">Food Image</string>
+    <string name="add_to_food_list">Add to Your food list button</string>
+    <string name="icon_food_source">Nutrient food source icon</string>
+    <string name="action_home">Home</string>
+</resources>
