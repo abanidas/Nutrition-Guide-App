@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/abanidas/Nutrition-Guide-App/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
 </p>
 
-This is a Health and Food App that consumes Nutrients Food Api and displays foods according to their nutritional content.
+This is a Health and Food App that consumes [Nutrients Food Api](https://github.com/abanidas/Nutrition) and displays foods according to their nutritional content.
 
 ## App UI
 
